@@ -1,0 +1,304 @@
+Date	Time	Number	Rate	Usage Type	Origin	Destination	Minutes	Airtime	Charges	Total	Description	Application Price
+6/5/2014	12:46AM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	13	--	--	--		
+6/5/2014	12:59AM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	3	--	--	--		
+6/5/2014	1:11AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	7	--	--	--		
+6/5/2014	10:23AM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	13	--	--	--		
+6/5/2014	1:17PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	7	--	--	--		
+6/5/2014	6:37PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	22	--	--	--		
+6/5/2014	9:14PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	14	--	--	--		
+6/5/2014	10:47PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	4	--	--	--		
+6/6/2014	12:37AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	3	--	--	--		
+6/6/2014	12:43AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	9	--	--	--		
+6/6/2014	10:50AM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	1	--	--	--		
+6/6/2014	10:52AM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	4	--	--	--		
+6/6/2014	10:57AM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	9	--	--	--		
+6/6/2014	11:05AM	630-206-8271	Peak	PlanAllow	Marion IA	W Chicago IL	1	--	--	--		
+6/6/2014	11:16AM	630-206-8271	Peak	PlanAllow	Marion IA	W Chicago IL	6	--	--	--		
+6/6/2014	12:05PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	2	--	--	--		
+6/6/2014	12:06PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	10	--	--	--		
+6/6/2014	12:32PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	8	--	--	--		
+6/6/2014	2:26PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	3	--	--	--		
+6/6/2014	2:30PM	319-560-5705	Peak	PlanAllow	Marion IA	Cedar Rpds IA	3	--	--	--		
+6/6/2014	5:12PM	319-560-2284	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/6/2014	9:47PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/6/2014	11:57PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	20	--	--	--		
+6/7/2014	9:08AM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+6/7/2014	10:46AM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	2	--	--	--		
+6/7/2014	3:41PM	319-560-1054	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/7/2014	7:58PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	14	--	--	--		
+6/7/2014	9:13PM	319-560-1054	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/7/2014	10:37PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	8	--	--	--		
+6/7/2014	10:55PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	51	--	--	--		
+6/8/2014	12:00AM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	16	--	--	--		
+6/8/2014	12:49AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+6/8/2014	3:39PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	27	--	--	--		
+6/8/2014	5:32PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+6/8/2014	6:50PM	325-234-8904	Off-Peak	N&W	Marion IA	San Angelo TX	2	--	--	--		
+6/8/2014	6:52PM	319-560-2284	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/8/2014	8:10PM	319-560-2284	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/8/2014	9:46PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	13	--	--	--		
+6/9/2014	11:39AM	630-206-8271	Peak	PlanAllow	Marion IA	W Chicago IL	3	--	--	--		
+6/9/2014	12:53PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	41	--	--	--		
+6/9/2014	1:43PM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	47	--	--	--		
+6/9/2014	2:34PM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	13	--	--	--		
+6/9/2014	3:16PM	325-234-8904	Peak	PlanAllow	Marion IA	San Angelo TX	1	--	--	--		
+6/9/2014	4:22PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	4	--	--	--		
+6/9/2014	5:08PM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	1	--	--	--		
+6/9/2014	5:08PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	4	--	--	--		
+6/9/2014	6:28PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	2	--	--	--		
+6/9/2014	7:49PM	325-944-8514	Peak	PlanAllow	Marion IA	San Angelo TX	18	--	--	--		
+6/9/2014	8:51PM	319-693-1472	Peak	PlanAllow	Marion IA	Cedar Rpds IA	4	--	--	--		
+6/9/2014	9:02PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	11	--	--	--		
+6/9/2014	10:17PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	17	--	--	--		
+6/9/2014	10:46PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	19	--	--	--		
+6/10/2014	10:35AM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	6	--	--	--		
+6/10/2014	11:18AM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	1	--	--	--		
+6/10/2014	6:07PM	319-560-2284	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/10/2014	6:08PM	319-560-2284	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/10/2014	6:29PM	319-929-3406	Peak	M2MAllow	Cedar Rapi IA	Cedarpdsia IA	1	--	--	--		
+6/10/2014	7:44PM	319-560-2284	Peak	M2MAllow	Cedar Rapi IA	Cedar Rpds IA	1	--	--	--		
+6/10/2014	7:52PM	630-380-4152	Peak	Friends & Family	Cedar Rapi IA	Roselle IL	1	--	--	--		
+6/10/2014	8:49PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	2	--	--	--		
+6/10/2014	9:08PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/10/2014	9:09PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	4	--	--	--		
+6/10/2014	9:24PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	8	--	--	--		
+6/10/2014	10:54PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+6/10/2014	10:56PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	33	--	--	--		
+6/11/2014	12:13PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	17	--	--	--		
+6/11/2014	1:44PM	319-538-1156	Peak	M2MAllow	Lisbon IA	Incoming CL	1	--	--	--		
+6/11/2014	5:24PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	4	--	--	--		
+6/11/2014	5:39PM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	4	--	--	--		
+6/11/2014	8:05PM	319-538-1156	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/11/2014	10:00PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	6	--	--	--		
+6/11/2014	10:25PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	37	--	--	--		
+6/11/2014	11:55PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	34	--	--	--		
+6/12/2014	12:34AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	4	--	--	--		
+6/12/2014	12:37PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	2	--	--	--		
+6/12/2014	1:39PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	2	--	--	--		
+6/12/2014	3:45PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	5	--	--	--		
+6/12/2014	4:29PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	6	--	--	--		
+6/12/2014	5:37PM	636-226-8455	Peak	PlanAllow	Marion IA	Incoming CL	10	--	--	--		
+6/12/2014	6:43PM	319-560-2284	Peak	M2MAllow	Marion IA	Cedar Rpds IA	2	--	--	--		
+6/12/2014	6:45PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	3	--	--	--		
+6/12/2014	8:27PM	630-380-4152	Peak	Friends & Family	Cedar Rapi IA	Roselle IL	3	--	--	--		
+6/13/2014	3:52PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	2	--	--	--		
+6/13/2014	4:26PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/13/2014	6:32PM	630-380-4153	Peak	PlanAllow	Colo IA	Roselle IL	2	--	--	--		
+6/13/2014	6:45PM	630-380-4153	Peak	PlanAllow	Ames IA	Incoming CL	2	--	--	--		
+6/13/2014	10:24PM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+6/13/2014	11:01PM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+6/14/2014	1:57AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+6/14/2014	2:06AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	14	--	--	--		
+6/14/2014	10:11AM	712-301-6587	Off-Peak	N&W	Ames IA	Sioux City IA	1	--	--	--		
+6/14/2014	10:12AM	712-253-2105	Off-Peak	N&W	Ames IA	Sioux City IA	1	--	--	--		
+6/14/2014	10:13AM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+6/14/2014	11:37AM	630-380-4153	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+6/14/2014	11:59PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	14	--	--	--		
+6/15/2014	12:12AM	630-380-4153	Off-Peak	N&W	Ames IA	Roselle IL	2	--	--	--		
+6/15/2014	12:15AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	9	--	--	--		
+6/15/2014	7:36AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+6/15/2014	12:09PM	319-560-1054	Off-Peak	N&W	Ames IA	Cedar Rpds IA	1	--	--	--		
+6/16/2014	5:02PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	12	--	--	--		
+6/16/2014	9:17PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	4	--	--	--		
+6/16/2014	11:27PM	319-651-5897	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/16/2014	11:34PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/16/2014	11:34PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	5	--	--	--		
+6/17/2014	2:04PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	2	--	--	--		
+6/17/2014	2:08PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	17	--	--	--		
+6/17/2014	2:25PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/17/2014	2:37PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	18	--	--	--		
+6/17/2014	3:17PM	419-708-8201	Peak	M2MAllow	Marion IA	Toledo OH	18	--	--	--		
+6/17/2014	4:37PM	319-365-3121	Peak	PlanAllow	Cedar Rapi IA	Cedar Rpds IA	2	--	--	--		
+6/17/2014	4:41PM	712-301-5610	Peak	M2MAllow	Marion IA	Sioux City IA	4	--	--	--		
+6/17/2014	6:43PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/17/2014	9:02PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	4	--	--	--		
+6/17/2014	9:06PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	3	--	--	--		
+6/17/2014	9:21PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	3	--	--	--		
+6/17/2014	10:44PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	9	--	--	--		
+6/18/2014	12:10PM	630-380-4152	Peak	Friends & Family	Cedar Rapi IA	Roselle IL	1	--	--	--		
+6/18/2014	6:05PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	1	--	--	--		
+6/18/2014	10:18PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/18/2014	10:54PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	23	--	--	--		
+6/19/2014	4:13PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	3	--	--	--		
+6/19/2014	10:17PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	24	--	--	--		
+6/19/2014	10:48PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	9	--	--	--		
+6/19/2014	11:32PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	7	--	--	--		
+6/20/2014	12:55PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	11	--	--	--		
+6/20/2014	1:14PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	9	--	--	--		
+6/20/2014	2:23PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	3	--	--	--		
+6/20/2014	3:07PM	407-826-2572	Peak	PlanAllow	Cedar Rapi IA	Incoming CL	11	--	--	--		
+6/20/2014	3:47PM	630-380-4152	Peak	Friends & Family	Iowa City IA	Roselle IL	17	--	--	--		
+6/20/2014	11:41PM	630-380-4152	Off-Peak	N&W	Erie IL	Incoming CL	12	--	--	--		
+6/21/2014	12:02AM	630-380-4152	Off-Peak	N&W	East Molin IL	Incoming CL	11	--	--	--		
+6/21/2014	12:15AM	630-380-4152	Off-Peak	N&W	West Branc IA	Incoming CL	84	--	--	--		
+6/21/2014	3:50PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	6	--	--	--		
+6/21/2014	4:18PM	702-815-2394	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/21/2014	5:34PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+6/21/2014	5:50PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/21/2014	5:51PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	3	--	--	--		
+6/21/2014	5:55PM	630-380-4152	Off-Peak	N&W	Springvill IA	Roselle IL	3	--	--	--		
+6/21/2014	5:58PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	10	--	--	--		
+6/21/2014	6:08PM	319-538-6375	Off-Peak	"N&W,CallWait"	Marion IA	Incoming CL	2	--	--	--		
+6/21/2014	6:09PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	6	--	--	--		
+6/21/2014	7:57PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/21/2014	8:03PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	5	--	--	--		
+6/21/2014	8:13PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	16	--	--	--		
+6/21/2014	9:01PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	12	--	--	--		
+6/21/2014	9:13PM	319-560-2284	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/21/2014	9:15PM	319-560-2284	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/21/2014	11:04PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	14	--	--	--		
+6/21/2014	11:42PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	4	--	--	--		
+6/22/2014	12:05PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Roselle IL	1	--	--	--		
+6/22/2014	12:54PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	11	--	--	--		
+6/22/2014	1:05PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/22/2014	1:07PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	12	--	--	--		
+6/22/2014	1:23PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Roselle IL	1	--	--	--		
+6/22/2014	1:34PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	11	--	--	--		
+6/22/2014	5:21PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	16	--	--	--		
+6/22/2014	9:17PM	319-560-2284	Off-Peak	N&W	Cedar Rapi IA	Cedar Rpds IA	1	--	--	--		
+6/22/2014	9:30PM	319-560-1054	Off-Peak	N&W	Cedar Rapi IA	Cedar Rpds IA	1	--	--	--		
+6/22/2014	9:31PM	630-380-4132	Off-Peak	N&W	Cedar Rapi IA	Roselle IL	5	--	--	--		
+6/22/2014	9:36PM	319-560-2284	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/22/2014	9:37PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/22/2014	9:57PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/22/2014	10:30PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/22/2014	10:35PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	18	--	--	--		
+6/23/2014	12:07AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	8	--	--	--		
+6/23/2014	12:34AM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	3	--	--	--		
+6/23/2014	11:28AM	319-362-0043	Peak	PlanAllow	Cedar Rapi IA	Incoming CL	1	--	--	--		
+6/23/2014	8:24PM	319-651-5897	Peak	"N&W,PlanAllow,Span"	Marion IA	Incoming CL	45	--	--	--		
+6/23/2014	9:09PM	319-651-5897	Off-Peak	N&W	Marion IA	Cedar Rpds IA	19	--	--	--		
+6/24/2014	12:04AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	9	--	--	--		
+6/24/2014	11:05AM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	2	--	--	--		
+6/24/2014	11:21AM	319-560-1054	Peak	M2MAllow	Cedar Rapi IA	Incoming CL	2	--	--	--		
+6/24/2014	12:24PM	630-206-8271	Peak	PlanAllow	Hiawatha IA	Incoming CL	17	--	--	--		
+6/24/2014	12:52PM	319-362-0043	Peak	PlanAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/24/2014	12:53PM	319-362-0043	Peak	PlanAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/24/2014	12:54PM	319-560-1054	Peak	M2MAllow	Hiawatha IA	Incoming CL	5	--	--	--		
+6/24/2014	4:29PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/24/2014	6:42PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/24/2014	7:35PM	630-206-8271	Peak	PlanAllow	Springvill IA	Incoming CL	5	--	--	--		
+6/24/2014	7:43PM	319-538-1156	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/24/2014	10:46PM	630-380-4152	Off-Peak	N&W	Hiawatha IA	Roselle IL	5	--	--	--		
+6/24/2014	10:55PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	6	--	--	--		
+6/25/2014	12:27AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	30	--	--	--		
+6/25/2014	11:09AM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	17	--	--	--		
+6/25/2014	2:41PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	3	--	--	--		
+6/25/2014	3:33PM	319-365-3121	Peak	PlanAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/25/2014	5:03PM	319-365-3121	Peak	PlanAllow	Marion IA	Incoming CL	9	--	--	--		
+6/25/2014	5:47PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/25/2014	9:20PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/25/2014	10:14PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/25/2014	10:44PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	8	--	--	--		
+6/25/2014	10:56PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	34	--	--	--		
+6/25/2014	11:59PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	13	--	--	--		
+6/26/2014	12:13AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	6	--	--	--		
+6/26/2014	12:24AM	630-380-4152	Off-Peak	N&W	Hiawatha IA	Roselle IL	2	--	--	--		
+6/26/2014	9:51AM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	3	--	--	--		
+6/26/2014	11:21AM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	3	--	--	--		
+6/26/2014	2:10PM	319-560-1054	Peak	M2MAllow	Cedar Rapi IA	Cedar Rpds IA	2	--	--	--		
+6/26/2014	5:38PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	2	--	--	--		
+6/26/2014	8:17PM	319-560-2284	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/26/2014	8:18PM	319-560-2284	Peak	M2MAllow	Marion IA	Incoming CL	2	--	--	--		
+6/26/2014	9:59PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	14	--	--	--		
+6/27/2014	12:48AM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	4	--	--	--		
+6/27/2014	12:57AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	6	--	--	--		
+6/27/2014	10:23AM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	3	--	--	--		
+6/27/2014	10:31AM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	1	--	--	--		
+6/27/2014	11:05AM	630-206-8271	Peak	PlanAllow	Marion IA	W Chicago IL	10	--	--	--		
+6/27/2014	4:14PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/27/2014	6:03PM	319-560-1054	Peak	M2MAllow	Springvill IA	Incoming CL	1	--	--	--		
+6/27/2014	9:03PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	3	--	--	--		
+6/27/2014	9:05PM	319-538-1156	Off-Peak	N&W	Cedar Rapi IA	Cedar Rpds IA	2	--	--	--		
+6/27/2014	9:07PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	2	--	--	--		
+6/27/2014	9:11PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	16	--	--	--		
+6/27/2014	10:51PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	15	--	--	--		
+6/27/2014	11:21PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	3	--	--	--		
+6/28/2014	12:45AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	5	--	--	--		
+6/28/2014	12:32PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/28/2014	3:22PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	4	--	--	--		
+6/28/2014	3:39PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	6	--	--	--		
+6/28/2014	4:32PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	16	--	--	--		
+6/28/2014	6:22PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	5	--	--	--		
+6/28/2014	7:08PM	319-538-1156	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/28/2014	7:42PM	630-380-4152	Off-Peak	N&W	MT. Vernon IA	Roselle IL	1	--	--	--		
+6/28/2014	7:50PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	11	--	--	--		
+6/28/2014	8:18PM	319-560-2284	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	2	--	--	--		
+6/28/2014	8:55PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+6/28/2014	11:05PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/28/2014	11:45PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	4	--	--	--		
+6/28/2014	11:59PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	3	--	--	--		
+6/29/2014	1:44PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	26	--	--	--		
+6/29/2014	5:59PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	8	--	--	--		
+6/29/2014	6:10PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	7	--	--	--		
+6/29/2014	6:43PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/29/2014	6:45PM	630-380-4152	Off-Peak	N&W	Hiawatha IA	Roselle IL	1	--	--	--		
+6/29/2014	6:45PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/29/2014	6:46PM	630-380-4152	Off-Peak	N&W	Toddville IA	Incoming CL	8	--	--	--		
+6/29/2014	9:01PM	319-560-1054	Off-Peak	N&W	Hiawatha IA	Incoming CL	1	--	--	--		
+6/29/2014	9:13PM	319-560-1054	Off-Peak	N&W	Marion IA	Cedar Rpds IA	4	--	--	--		
+6/29/2014	10:25PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	2	--	--	--		
+6/29/2014	10:27PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+6/29/2014	10:54PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	8	--	--	--		
+6/30/2014	12:38AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	16	--	--	--		
+6/30/2014	11:22AM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	48	--	--	--		
+6/30/2014	2:32PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	3	--	--	--		
+6/30/2014	2:45PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/30/2014	3:29PM	319-560-1054	Peak	M2MAllow	Central Ci IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	3:30PM	319-560-1054	Peak	M2MAllow	Central Ci IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	3:34PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	3:40PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	3:40PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	4:35PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	4:36PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	4:52PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	4:52PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	7	--	--	--		
+6/30/2014	5:00PM	319-393-6000	Peak	PlanAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	5:00PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	5:15PM	319-560-1054	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/30/2014	5:30PM	319-431-3481	Peak	PlanAllow	Marion IA	Cedar Rpds IA	4	--	--	--		
+6/30/2014	5:40PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/30/2014	8:47PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	3	--	--	--		
+6/30/2014	9:35PM	630-380-4152	Off-Peak	N&W	Toddville IA	Roselle IL	7	--	--	--		
+6/30/2014	9:52PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	5	--	--	--		
+6/30/2014	10:20PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	8	--	--	--		
+6/30/2014	10:33PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	24	--	--	--		
+6/30/2014	11:28PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	7	--	--	--		
+7/1/2014	12:56AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	29	--	--	--		
+7/1/2014	1:42AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	7	--	--	--		
+7/1/2014	4:54PM	630-206-8271	Peak	PlanAllow	Marion IA	W Chicago IL	7	--	--	--		
+7/1/2014	6:14PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	2	--	--	--		
+7/1/2014	6:48PM	319-560-2284	Peak	M2MAllow	Marion IA	Incoming CL	2	--	--	--		
+7/1/2014	6:50PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	1	--	--	--		
+7/1/2014	6:51PM	630-206-8271	Peak	PlanAllow	Marion IA	Incoming CL	19	--	--	--		
+7/1/2014	8:15PM	630-206-8271	Peak	PlanAllow	Marion IA	W Chicago IL	19	--	--	--		
+7/1/2014	9:28PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	8	--	--	--		
+7/2/2014	12:41AM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+7/2/2014	12:43AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	15	--	--	--		
+7/2/2014	3:36PM	407-826-2572	Peak	PlanAllow	Cedar Rapi IA	Incoming CL	13	--	--	--		
+7/2/2014	5:38PM	319-560-1054	Peak	M2MAllow	Toddville IA	Cedar Rpds IA	1	--	--	--		
+7/2/2014	9:13PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+7/2/2014	9:16PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	12	--	--	--		
+7/2/2014	9:28PM	319-560-1054	Off-Peak	N&W	Toddville IA	Cedar Rpds IA	2	--	--	--		
+7/2/2014	9:41PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	23	--	--	--		
+7/2/2014	10:54PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	81	--	--	--		
+7/3/2014	12:28AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	9	--	--	--		
+7/3/2014	11:04AM	630-206-8271	Peak	PlanAllow	Toddville IA	W Chicago IL	1	--	--	--		
+7/3/2014	11:05AM	630-206-8271	Peak	PlanAllow	Cedar Rapi IA	Incoming CL	7	--	--	--		
+7/3/2014	6:18PM	319-560-1054	Peak	M2MAllow	Cedar Rapi IA	Incoming CL	2	--	--	--		
+7/3/2014	11:55PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	2	--	--	--		
+7/3/2014	11:56PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	3	--	--	--		
+7/4/2014	12:36AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+7/4/2014	12:40AM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	2	--	--	--		
+7/4/2014	11:01AM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	14	--	--	--		
+7/4/2014	11:41AM	630-380-4152	Peak	Friends & Family	Central Ci IA	Incoming CL	3	--	--	--		
+7/4/2014	5:54PM	630-206-8271	Peak	PlanAllow	Marion IA	W Chicago IL	13	--	--	--		
+7/4/2014	7:58PM	319-560-2284	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+7/4/2014	9:20PM	319-560-2284	Off-Peak	N&W	Hiawatha IA	Cedar Rpds IA	2	--	--	--		
+7/4/2014	9:22PM	630-380-4152	Off-Peak	N&W	Toddville IA	Roselle IL	1	--	--	--		
+7/4/2014	9:23PM	319-560-2284	Off-Peak	"N&W,CallWait"	Cedar Rapi IA	Incoming CL	2	--	--	--		
+7/4/2014	9:24PM	630-380-4152	Off-Peak	N&W	Hiawatha IA	Roselle IL	2	--	--	--		
+7/4/2014	9:27PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	7	--	--	--		
+7/4/2014	9:39PM	319-560-2284	Off-Peak	N&W	Cedar Rapi IA	Cedar Rpds IA	2	--	--	--		
+7/4/2014	11:27PM	630-380-4152	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	17	--	--	--		
+7/4/2014	11:57PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	8	--	--	--		

@@ -1,0 +1,261 @@
+Date	Time	Number	Rate	Usage Type	Origin	Destination	Minutes	Airtime	Charges	Total	Description	Application Price
+5/5/2014	3:10AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/5/2014	3:21AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+5/5/2014	10:05AM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/5/2014	10:10AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/5/2014	5:26PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/5/2014	5:51PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/5/2014	5:52PM	319-310-6284	Peak	PlanAllow	Ames IA	Cedar Rpds IA	8	--	--	--		
+5/5/2014	5:59PM	641-456-8104	Peak	M2MAllow	Ames IA	Hampton IA	1	--	--	--		
+5/5/2014	8:49PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/5/2014	8:50PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/5/2014	11:18PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/6/2014	12:16AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/6/2014	12:29AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	17	--	--	--		
+5/6/2014	9:44AM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/6/2014	9:45AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	10	--	--	--		
+5/6/2014	10:38AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	12	--	--	--		
+5/6/2014	11:52AM	855-633-4226	Peak	PlanAllow	Ames IA	Toll-Free CL	2	--	--	--		
+5/6/2014	12:15PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	5	--	--	--		
+5/6/2014	12:22PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	3	--	--	--		
+5/6/2014	2:26PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/6/2014	2:27PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/6/2014	8:22PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/7/2014	1:33AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	4	--	--	--		
+5/7/2014	11:57AM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	7	--	--	--		
+5/7/2014	2:20PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	5	--	--	--		
+5/7/2014	4:26PM	712-789-9518	Peak	M2MAllow	Ames IA	Griswold IA	1	--	--	--		
+5/7/2014	4:27PM	641-344-5713	Peak	PlanAllow	Ames IA	Creston IA	2	--	--	--		
+5/7/2014	6:30PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/7/2014	8:56PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/7/2014	9:04PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/7/2014	11:45PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	7	--	--	--		
+5/7/2014	11:55PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/8/2014	12:55PM	855-633-4226	Peak	PlanAllow	Ames IA	Toll-Free CL	1	--	--	--		
+5/8/2014	2:38PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/8/2014	10:36PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/9/2014	12:49AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	4	--	--	--		
+5/9/2014	12:53AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/9/2014	12:58AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	5	--	--	--		
+5/9/2014	10:32AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	3	--	--	--		
+5/9/2014	1:57PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/9/2014	3:58PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	5	--	--	--		
+5/10/2014	12:32AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	11	--	--	--		
+5/10/2014	8:26AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/10/2014	11:27AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/10/2014	11:31AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/10/2014	4:39PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/10/2014	6:42PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+5/10/2014	7:16PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/10/2014	7:43PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/10/2014	7:45PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/10/2014	7:53PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/11/2014	1:25AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	3	--	--	--		
+5/11/2014	10:22AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/11/2014	12:04PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/11/2014	2:13PM	319-560-1054	Off-Peak	N&W	Newhall IA	Cedar Rpds IA	1	--	--	--		
+5/11/2014	2:17PM	319-538-1156	Off-Peak	N&W	Cedar Rapi IA	Incoming CL	1	--	--	--		
+5/11/2014	3:25PM	319-560-2284	Off-Peak	N&W	Marion IA	Cedar Rpds IA	1	--	--	--		
+5/11/2014	3:34PM	319-560-2284	Off-Peak	N&W	Marion IA	Incoming CL	1	--	--	--		
+5/11/2014	10:05PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+5/11/2014	10:09PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/11/2014	10:18PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/11/2014	10:29PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	3	--	--	--		
+5/11/2014	10:34PM	319-538-1156	Off-Peak	N&W	Ames IA	Cedar Rpds IA	1	--	--	--		
+5/12/2014	12:01AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	2	--	--	--		
+5/12/2014	12:08AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	7	--	--	--		
+5/12/2014	9:56AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/12/2014	1:13PM	855-633-4226	Peak	PlanAllow	Ames IA	Toll-Free CL	7	--	--	--		
+5/12/2014	1:27PM	855-633-4226	Peak	PlanAllow	Ames IA	Toll-Free CL	9	--	--	--		
+5/12/2014	1:46PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	8	--	--	--		
+5/12/2014	1:55PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/12/2014	1:57PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	4	--	--	--		
+5/12/2014	2:53PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	10	--	--	--		
+5/12/2014	4:15PM	800-251-5850	Peak	PlanAllow	Ames IA	Incoming CL	1	--	--	--		
+5/12/2014	4:53PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/12/2014	8:45PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/12/2014	11:37PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/12/2014	11:44PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	6	--	--	--		
+5/13/2014	4:22PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	12	--	--	--		
+5/13/2014	4:58PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	8	--	--	--		
+5/13/2014	5:43PM	515-979-1355	Peak	PlanAllow	Ames IA	Desmoinesa IA	1	--	--	--		
+5/13/2014	6:00PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/13/2014	9:33PM	319-560-1054	Off-Peak	N&W	Ames IA	Cedar Rpds IA	12	--	--	--		
+5/13/2014	11:58PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/14/2014	12:09AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	22	--	--	--		
+5/14/2014	12:31AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	2	--	--	--		
+5/14/2014	9:29AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	5	--	--	--		
+5/14/2014	11:23AM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/14/2014	1:15PM	855-633-4226	Peak	PlanAllow	Ames IA	Toll-Free CL	6	--	--	--		
+5/14/2014	1:23PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	3	--	--	--		
+5/14/2014	3:27PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/14/2014	6:39PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/14/2014	8:16PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/14/2014	8:35PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/14/2014	8:36PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/15/2014	1:00AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	8	--	--	--		
+5/15/2014	1:25AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	24	--	--	--		
+5/15/2014	11:08AM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	7	--	--	--		
+5/15/2014	12:12PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/15/2014	12:39PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/15/2014	1:26PM	407-826-2572	Peak	PlanAllow	Ames IA	Orlando FL	2	--	--	--		
+5/15/2014	1:28PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	13	--	--	--		
+5/15/2014	1:56PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/15/2014	3:30PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	6	--	--	--		
+5/15/2014	3:51PM	407-826-2572	Peak	PlanAllow	Ames IA	Incoming CL	12	--	--	--		
+5/15/2014	4:34PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/15/2014	9:04PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/15/2014	9:39PM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	8	--	--	--		
+5/16/2014	12:16AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	9	--	--	--		
+5/16/2014	8:16AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	4	--	--	--		
+5/16/2014	9:48AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/16/2014	11:27AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/16/2014	11:37AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/16/2014	11:38AM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/17/2014	8:27AM	630-380-4152	Off-Peak	N&W	Westby WI	Roselle IL	1	--	--	--		
+5/17/2014	5:37PM	630-380-4132	Off-Peak	N&W	Westby WI	Incoming CL	2	--	--	--		
+5/19/2014	3:39PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Incoming CL	5	--	--	--		
+5/19/2014	3:47PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Roselle IL	1	--	--	--		
+5/19/2014	3:48PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Roselle IL	1	--	--	--		
+5/19/2014	3:50PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Roselle IL	1	--	--	--		
+5/19/2014	3:53PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Incoming CL	2	--	--	--		
+5/19/2014	4:01PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Roselle IL	1	--	--	--		
+5/19/2014	4:01PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Roselle IL	1	--	--	--		
+5/19/2014	4:03PM	630-380-4152	Peak	Friends & Family	LA Crosse WI	Incoming CL	1	--	--	--		
+5/19/2014	4:33PM	423-930-5275	Peak	M2MAllow	LA Crosse WI	Johnson Cy TN	2	--	--	--		
+5/21/2014	11:19AM	630-380-4152	Peak	Friends & Family	Monroe  /A WI	Roselle IL	1	--	--	--		
+5/21/2014	12:24PM	630-380-4152	Peak	Friends & Family	Westby WI	Roselle IL	1	--	--	--		
+5/21/2014	8:09PM	920-241-0150	Peak	M2MAllow	LA Crosse WI	DE Pere WI	1	--	--	--		
+5/21/2014	8:32PM	920-241-0150	Peak	M2MAllow	LA Crosse WI	Incoming CL	4	--	--	--		
+5/22/2014	5:12PM	636-226-8455	Peak	PlanAllow	Ames IA	Valleypark MO	1	--	--	--		
+5/22/2014	5:16PM	636-226-8455	Peak	PlanAllow	Ames IA	Incoming CL	1	--	--	--		
+5/22/2014	10:23PM	936-425-0504	Off-Peak	N&W	Ames IA	Livingston TX	1	--	--	--		
+5/23/2014	1:19AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	9	--	--	--		
+5/23/2014	12:14PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/23/2014	12:15PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/23/2014	12:15PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/23/2014	12:18PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/23/2014	12:19PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/23/2014	12:22PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/23/2014	12:30PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/23/2014	4:09PM	407-405-5003	Peak	PlanAllow	Ames IA	Incoming CL	14	--	--	--		
+5/23/2014	5:50PM	319-560-2284	Peak	M2MAllow	Ames IA	Cedar Rpds IA	2	--	--	--		
+5/23/2014	5:51PM	319-560-2284	Peak	M2MAllow	Ames IA	Incoming CL	39	--	--	--		
+5/23/2014	7:04PM	515-979-1355	Peak	PlanAllow	Ames IA	Desmoinesa IA	10	--	--	--		
+5/23/2014	7:19PM	712-541-3336	Peak	M2MAllow	Ames IA	Le Mars IA	21	--	--	--		
+5/23/2014	8:08PM	855-633-4226	Peak	PlanAllow	Ames IA	Toll-Free CL	1	--	--	--		
+5/23/2014	8:12PM	855-633-4226	Peak	PlanAllow	Ames IA	Toll-Free CL	8	--	--	--		
+5/24/2014	12:35AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/24/2014	12:37AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/24/2014	10:54AM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/24/2014	2:49PM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/24/2014	5:31PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/24/2014	5:31PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/24/2014	5:34PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	4	--	--	--		
+5/24/2014	6:01PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/24/2014	8:34PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	3	--	--	--		
+5/24/2014	11:21PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	8	--	--	--		
+5/25/2014	10:11AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	2	--	--	--		
+5/25/2014	10:19AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/25/2014	10:27AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+5/25/2014	12:04PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/25/2014	12:12PM	319-560-2284	Off-Peak	N&W	Ames IA	Cedar Rpds IA	2	--	--	--		
+5/25/2014	12:14PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/25/2014	5:53PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	5	--	--	--		
+5/25/2014	6:59PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/26/2014	12:01AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/26/2014	12:01AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	9	--	--	--		
+5/26/2014	12:11AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+5/26/2014	7:47AM	712-326-4842	Peak	PlanAllow	Ames IA	Incoming CL	1	--	--	--		
+5/26/2014	11:27AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	5	--	--	--		
+5/26/2014	3:29PM	630-380-4152	Peak	Friends & Family	Ankeny IA	Roselle IL	1	--	--	--		
+5/26/2014	8:46PM	641-780-1795	Peak	PlanAllow	Ames IA	Pella IA IA	2	--	--	--		
+5/26/2014	9:23PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	2	--	--	--		
+5/27/2014	12:11AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	3	--	--	--		
+5/27/2014	12:35PM	515-418-2576	Peak	M2MAllow	Ames IA	Incoming CL	7	--	--	--		
+5/27/2014	5:54PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	2	--	--	--		
+5/27/2014	6:01PM	319-366-5038	Peak	PlanAllow	Ames IA	Cedar Rpds IA	3	--	--	--		
+5/27/2014	7:34PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/27/2014	8:13PM	402-651-1906	Peak	M2MAllow	Ames IA	Omaha NE	3	--	--	--		
+5/27/2014	8:30PM	319-929-5450	Peak	M2MAllow	Ames IA	Cedarpdsia IA	1	--	--	--		
+5/27/2014	8:31PM	319-929-5450	Peak	"M2MAllow,CallWait"	Ames IA	Incoming CL	5	--	--	--		
+5/27/2014	8:56PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/27/2014	8:56PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/28/2014	12:19AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	7	--	--	--		
+5/28/2014	12:26AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/28/2014	2:16PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	5	--	--	--		
+5/29/2014	12:19AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	4	--	--	--		
+5/29/2014	12:38AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	5	--	--	--		
+5/29/2014	12:43AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/29/2014	12:58AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	2	--	--	--		
+5/29/2014	1:53PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	3	--	--	--		
+5/29/2014	3:16PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/29/2014	5:50PM	Unavailable	Peak	PlanAllow	Ames IA	Incoming CL	1	--	--	--		
+5/29/2014	6:16PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/29/2014	8:41PM	319-366-5038	Peak	PlanAllow	Ames IA	Cedar Rpds IA	5	--	--	--		
+5/29/2014	8:45PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/29/2014	8:50PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	1	--	--	--		
+5/29/2014	10:58PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/29/2014	11:01PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	40	--	--	--		
+5/30/2014	11:09AM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	4	--	--	--		
+5/30/2014	2:59PM	630-380-4152	Peak	Friends & Family	Ames IA	Incoming CL	2	--	--	--		
+5/30/2014	7:02PM	712-301-6587	Peak	M2MAllow	Ames IA	Sioux City IA	1	--	--	--		
+5/30/2014	8:59PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	1	--	--	--		
+5/30/2014	9:14PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/30/2014	9:35PM	712-301-6587	Off-Peak	N&W	Ames IA	Sioux City IA	2	--	--	--		
+5/30/2014	9:43PM	712-301-6587	Off-Peak	N&W	Ames IA	Sioux City IA	2	--	--	--		
+5/30/2014	9:44PM	712-301-6587	Off-Peak	N&W	Ames IA	Sioux City IA	1	--	--	--		
+5/31/2014	12:15AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	4	--	--	--		
+5/31/2014	12:34AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+5/31/2014	12:08PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	1	--	--	--		
+5/31/2014	1:47PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/31/2014	4:25PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	6	--	--	--		
+5/31/2014	4:51PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	6	--	--	--		
+5/31/2014	6:09PM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	1	--	--	--		
+5/31/2014	6:59PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	11	--	--	--		
+5/31/2014	11:26PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	13	--	--	--		
+5/31/2014	11:43PM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	6	--	--	--		
+6/1/2014	10:29AM	630-380-4152	Off-Peak	N&W	Ames IA	Roselle IL	7	--	--	--		
+6/1/2014	1:01PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	4	--	--	--		
+6/1/2014	1:37PM	712-301-6587	Off-Peak	N&W	Ames IA	Incoming CL	2	--	--	--		
+6/1/2014	1:51PM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	6	--	--	--		
+6/1/2014	7:28PM	319-560-1054	Off-Peak	N&W	Ames IA	Cedar Rpds IA	3	--	--	--		
+6/1/2014	10:02PM	319-560-1054	Off-Peak	N&W	Ames IA	Incoming CL	8	--	--	--		
+6/2/2014	12:09AM	630-380-4152	Off-Peak	N&W	Ames IA	Incoming CL	3	--	--	--		
+6/2/2014	12:22PM	630-380-4152	Peak	Friends & Family	Ames IA	Roselle IL	5	--	--	--		
+6/2/2014	12:50PM	630-380-4152	Peak	Friends & Family	Nevada IA	Incoming CL	11	--	--	--		
+6/2/2014	1:57PM	319-350-3565	Peak	M2MAllow	Newhall IA	Cedar Rpds IA	2	--	--	--		
+6/2/2014	1:59PM	630-730-5260	Peak	PlanAllow	Newhall IA	Naperville IL	33	--	--	--		
+6/2/2014	2:34PM	319-560-1054	Peak	M2MAllow	Marion IA	Cedar Rpds IA	5	--	--	--		
+6/2/2014	2:39PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	3	--	--	--		
+6/2/2014	2:42PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	6	--	--	--		
+6/2/2014	3:59PM	641-456-8104	Peak	M2MAllow	Marion IA	Incoming CL	3	--	--	--		
+6/2/2014	8:43PM	319-651-5167	Peak	PlanAllow	Marion IA	Incoming CL	1	--	--	--		
+6/2/2014	11:01PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	4	--	--	--		
+6/2/2014	11:06PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/2/2014	11:07PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	1	--	--	--		
+6/2/2014	11:13PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	12	--	--	--		
+6/2/2014	11:24PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	17	--	--	--		
+6/2/2014	11:52PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	9	--	--	--		
+6/3/2014	12:46PM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	1	--	--	--		
+6/3/2014	1:05PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	11	--	--	--		
+6/3/2014	1:33PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	3	--	--	--		
+6/3/2014	4:34PM	319-538-1156	Peak	M2MAllow	Cedar Rapi IA	Cedar Rpds IA	1	--	--	--		
+6/3/2014	4:34PM	319-560-1054	Peak	M2MAllow	Cedar Rapi IA	Cedar Rpds IA	2	--	--	--		
+6/3/2014	4:36PM	630-380-4152	Peak	Friends & Family	Cedar Rapi IA	Roselle IL	12	--	--	--		
+6/3/2014	4:55PM	630-380-4152	Peak	Friends & Family	Lisbon IA	Incoming CL	2	--	--	--		
+6/3/2014	5:23PM	319-538-1156	Peak	M2MAllow	Marion IA	Incoming CL	1	--	--	--		
+6/3/2014	6:21PM	319-538-1156	Peak	M2MAllow	Hiawatha IA	Incoming CL	1	--	--	--		
+6/3/2014	6:41PM	319-538-1156	Peak	M2MAllow	Marion IA	Cedar Rpds IA	1	--	--	--		
+6/3/2014	8:53PM	402-651-1906	Peak	M2MAllow	Marion IA	Omaha NE	13	--	--	--		
+6/3/2014	9:06PM	630-380-4152	Off-Peak	N&W	Marion IA	Roselle IL	5	--	--	--		
+6/3/2014	9:28PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	14	--	--	--		
+6/3/2014	9:42PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	5	--	--	--		
+6/3/2014	10:30PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	3	--	--	--		
+6/4/2014	11:36AM	630-380-4152	Peak	Friends & Family	Marion IA	Roselle IL	10	--	--	--		
+6/4/2014	12:49PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	4	--	--	--		
+6/4/2014	1:43PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	5	--	--	--		
+6/4/2014	2:49PM	630-380-4152	Peak	Friends & Family	Marion IA	Incoming CL	5	--	--	--		
+6/4/2014	7:02PM	319-560-2284	Peak	M2MAllow	Marion IA	Incoming CL	5	--	--	--		
+6/4/2014	7:33PM	417-425-8605	Peak	PlanAllow	Marion IA	Springfld MO	17	--	--	--		
+6/4/2014	10:36PM	630-380-4152	Off-Peak	N&W	Marion IA	Incoming CL	44	--	--	--		
