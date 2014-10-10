@@ -10,7 +10,6 @@ def tableExists(db):
     ''')
     for row in cursor:
         if len(row) != 0:
-            print "Table 'calls' already exists"
             return True
 
     print "Table 'calls' does not yet exist"
@@ -53,27 +52,33 @@ def populateTable(db):
 def analyzeData(db):
     # Total calls, incoming, outgoing (and percents). top 5 most frequent with percentages, etc.
     cursor = db.cursor()
+    numCalls = cursor.execute('''SELECT Count(*) FROM calls''').fetchone()[0]
+    print numCalls, "calls from May to July 2014."
+    numIncoming = cursor.execute('''SELECT Count(*) FROM calls WHERE incoming=1''').fetchone()[0]
+    print numIncoming, "incoming calls. (", (numIncoming*1.0)/numCalls, "%)"
+    numOutgoing = cursor.execute('''SELECT Count(*) FROM calls WHERE incoming=0''').fetchone()[0]
+    print numOutgoing, "outgoing calls.(", (numOutgoing*1.0)/numCalls, "%)"
+
     cursor.execute('''SELECT phone_number, duration, incoming, date, time FROM calls''')
-    for call in cursor:
-        print call[0], call[1], "minutes,",
-        if call[2] == 1:
-            print "incoming,",
-        else:
-            print "outgoing,",
-        print call[3], call[4]
+    rows = cursor.fetchall()
+    for call in rows:
+        pass
     return
 
 
 
 if __name__ == '__main__':
-    # Create or connect to the database
-    db = sqlite3.connect('db/pyPhone.sqlite3')
+    try:
+        # Create or connect to the database
+        db = sqlite3.connect('db/pyPhone.sqlite3')
 
-    if not tableExists(db):
-        createTable(db)
-        populateTable(db)
+        if not tableExists(db):
+            createTable(db)
+            populateTable(db)
 
-    analyzeData(db)
-    
-    # Close the db connection
-    db.close()
+        analyzeData(db)
+    except Exception as e:
+        raise e
+    finally:
+        # Close the db connection
+        db.close()
