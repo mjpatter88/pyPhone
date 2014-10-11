@@ -1,5 +1,6 @@
-# Written for Python 2.7.5
+# Written for Python 2.7
 import sqlite3
+import matplotlib.pyplot as plt
 
 fileNames = ['data/Apr5thruMay4.txt', 'data/May5thruJune4.txt', 'data/June5thruJuly4.txt']
 
@@ -58,13 +59,27 @@ def analyzeData(db):
     
     numIncoming = cursor.execute('''SELECT Count(*) FROM calls WHERE incoming=1''').fetchone()[0]
     print numIncoming, "incoming calls. (" + str((numIncoming*100.0)/numCalls) + "%)"
-    
     numOutgoing = cursor.execute('''SELECT Count(*) FROM calls WHERE incoming=0''').fetchone()[0]
     print numOutgoing, "outgoing calls. (" + str((numOutgoing*100.0)/numCalls) + "%)"
+    # Display the info in a pie chart
+    labels = 'Incoming Calls', 'Outgoing Calls'
+    values = [numIncoming, numOutgoing]
+    colors = ['orange', 'seagreen']
+    plt.pie(values, labels=labels, colors=colors, autopct='%1.1f%%')
+    plt.axis('equal')
+    plt.show()
     
     numLiz = cursor.execute('''SELECT Count(*) FROM calls WHERE phone_number='630-380-4152';
             ''').fetchone()[0]
-    print numLiz, "calls to/from Liz. (" + str((numLiz*100.0)/numCalls) + "%)"
+    percentLiz = (numLiz*100.0)/numCalls
+    print numLiz, "calls to/from Liz. (" + str(percentLiz) + "%)"
+    # Display the info in a pie chart
+    labels = 'Liz', 'Others'
+    sizes = [int(percentLiz), 100 - int(percentLiz)]
+    colors = ['turquoise', 'gold']
+    plt.pie(sizes, colors=colors, labels=labels, autopct='%1.1f%%')
+    plt.axis('equal')
+    plt.show()
 
     return
 
