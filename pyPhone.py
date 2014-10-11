@@ -50,19 +50,22 @@ def populateTable(db):
     return
 
 def analyzeData(db):
-    # Total calls, incoming, outgoing (and percents). top 5 most frequent with percentages, etc.
+    # Total calls, incoming, outgoing (and percents). Times to/from liz and percentage.
     cursor = db.cursor()
+    
     numCalls = cursor.execute('''SELECT Count(*) FROM calls''').fetchone()[0]
     print numCalls, "calls from May to July 2014."
+    
     numIncoming = cursor.execute('''SELECT Count(*) FROM calls WHERE incoming=1''').fetchone()[0]
-    print numIncoming, "incoming calls. (", (numIncoming*1.0)/numCalls, "%)"
+    print numIncoming, "incoming calls. (" + str((numIncoming*100.0)/numCalls) + "%)"
+    
     numOutgoing = cursor.execute('''SELECT Count(*) FROM calls WHERE incoming=0''').fetchone()[0]
-    print numOutgoing, "outgoing calls.(", (numOutgoing*1.0)/numCalls, "%)"
+    print numOutgoing, "outgoing calls. (" + str((numOutgoing*100.0)/numCalls) + "%)"
+    
+    numLiz = cursor.execute('''SELECT Count(*) FROM calls WHERE phone_number='630-380-4152';
+            ''').fetchone()[0]
+    print numLiz, "calls to/from Liz. (" + str((numLiz*100.0)/numCalls) + "%)"
 
-    cursor.execute('''SELECT phone_number, duration, incoming, date, time FROM calls''')
-    rows = cursor.fetchall()
-    for call in rows:
-        pass
     return
 
 
